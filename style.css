@@ -14,3 +14,10 @@ section{
     filter: hue-rotate(360deg);
 }
 }
+.card{
+    background: transparent;
+    border: 0;
+}
+.card p{
+    color: aliceblue;
+}
